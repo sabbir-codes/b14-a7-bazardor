@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html { scroll-behavior: smooth; }
+body { @apply bg-canvas text-ink font-bn antialiased; }
+.section-anchor { scroll-margin-top: 7.5rem; }
+.no-scrollbar::-webkit-scrollbar { display: none; }
+.no-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
+.ticker:hover .animate-marquee { animation-play-state: paused; }

@@ -23,3 +23,18 @@ This project was developed as part of **Programming Hero — Batch 14, Assignmen
 - 🔔 **Toast Notifications:** Provides feedback for relevant authentication actions and errors.
 - ⏳ **Loading States:** Improves the user experience while data is loading.
 - 🚫 **Error Handling:** Provides appropriate feedback for unavailable content and invalid routes.
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|---|---|
+| Next.js | React framework and application routing |
+| React.js | Building reusable UI components |
+| TypeScript | Type-safe development |
+| Tailwind CSS | Styling and responsive layouts |
+| Better Auth | Authentication and social login |
+| PostgreSQL (Neon) | Database integration |
+| REST API | Fetching product and category data |
+| React Hot Toast / Toast Notifications | User feedback and notifications |
+| Vercel | Deployment and hosting |
+| Git & GitHub | Version control and source code management |

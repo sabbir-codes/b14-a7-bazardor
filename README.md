@@ -10,3 +10,16 @@ This project was developed as part of **Programming Hero — Batch 14, Assignmen
 
 - **Live Website:** https://b14-a7-bazardor.vercel.app/
 - **GitHub Repository:** https://github.com/sabbir-codes/b14-a7-bazardor
+
+## ✨ Key Features
+
+- 📱 **Fully Responsive Design:** Optimized for mobile, tablet, and desktop devices.
+- 📈 **Daily Price Updates:** Displays products with price changes, including rising and falling prices.
+- 🛍️ **Product Listing:** Browse a collection of everyday grocery and essential products.
+- 🗂️ **Category-Based Browsing:** Explore products by category and find relevant items easily.
+- 💰 **Market Price Comparison:** View product pricing information to help users compare prices across markets.
+- 🔐 **Secure Authentication:** Supports email/password authentication with Google and GitHub social login using Better Auth.
+- 👤 **User Profile:** Access user account information through the authentication system.
+- 🔔 **Toast Notifications:** Provides feedback for relevant authentication actions and errors.
+- ⏳ **Loading States:** Improves the user experience while data is loading.
+- 🚫 **Error Handling:** Provides appropriate feedback for unavailable content and invalid routes.

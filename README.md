@@ -9,3 +9,4 @@ This project was developed as part of **Programming Hero — Batch 14, Assignmen
 ## 🌐 Live Demo & Repository
 
 - **Live Website:** https://b14-a7-bazardor.vercel.app/
+- **GitHub Repository:** https://github.com/sabbir-codes/b14-a7-bazardor

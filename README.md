@@ -19,7 +19,7 @@
 4. **Protected product details** — min / max / average price and a market-wise price table with cheapest & priciest markets.
 5. **Authentication** — Better Auth email/password + Google + GitHub, toasts on every action, protected-route redirects.
 6. **Update profile** — change your name via Better Auth `updateUser`.
-7. **Fully responsive** with skeleton loaders, empty states and a friendly 404 PAGE.
+7. **Fully responsive** with skeleton loaders, empty states and a friendly 404 page.
 
 ## 🚀 Getting started
 

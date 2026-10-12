@@ -2,8 +2,7 @@
 
 > প্রয়োজনীয় পণ্যের দাম এক নজরে — চাল, ডাল, তেল, সবজি, মাছ, মাংস, ডিম ও মসলার আজকের বাজার দর, বাজারভিত্তিক তুলনাসহ।
 
-**Live:** _add your Vercel link here_ · Repo: https://github.com/ikhoanulislam/bazar-dor
-
+**Live:** https://b14-a7-bazardor.vercel.app/ · 
 ## 🧰 Technologies
 
 - [Next.js 15](https://nextjs.org/) (App Router) + TypeScript
@@ -49,3 +48,4 @@ Import the repo, add the env variables above, deploy. Dynamic routes (`/product/
 ## 🔌 Data
 
 Market data comes from `https://api.api-store.workers.dev/api/bazardor` (fallback `https://api.abcz.workers.dev/api/bazardor`) through a server-side proxy at `/api/bazar/*`. Field-name handling lives in `lib/normalize.ts`.
+

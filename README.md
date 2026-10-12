@@ -21,8 +21,6 @@
 6. **Update profile** — change your name via Better Auth `updateUser`.
 7. **Fully responsive** with skeleton loaders, empty states and a friendly 404 page.
 
-Google authentication works successfully.
-GitHub authentication works successfully.
 ## 🚀 Getting started
 
 ```bash
